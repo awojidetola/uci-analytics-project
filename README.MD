@@ -8,8 +8,6 @@ Link to original UCI dataset: [Here](https://archive.ics.uci.edu/dataset/502/onl
 
 Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidemargaret/online-retail-ii-cleaned/data)
 
----
-
 ## Repository Structure
 
 ```text
@@ -22,8 +20,6 @@ Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidem
 │   ├── 03_data_cleaning_feature_engineering.sql
 │   └── 04_exploratory_analysis.sql (coming soon)
 ```
-
----
 
 ## Features Added
 
