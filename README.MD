@@ -18,7 +18,10 @@ Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidem
 │   ├── 01_data_understanding.sql
 │   ├── 02_data_quality_assessment.sql
 │   ├── 03_data_cleaning_feature_engineering.sql
-│   └── 04_exploratory_analysis.sql (coming soon)
+│   └── 04_sales_performance_analysis.sql 
+│   └── 05_customer_analytics.sql
+│   └── 06_product_analysis.sql 
+│   └── 07_geography_and_timeseries_analysis.sql 
 ```
 
 ## Features Added
