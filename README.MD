@@ -14,6 +14,7 @@ Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidem
 .
 ├── README.md
 ├── DATA_CLEANING.md
+├── PRODUCT_TAXONOMY_PROMPT.md
 ├── sql/
 │   ├── 01_data_understanding.sql
 │   ├── 02_data_quality_assessment.sql
@@ -22,6 +23,9 @@ Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidem
 │   └── 05_customer_analytics.sql
 │   └── 06_product_analysis.sql 
 │   └── 07_geography_and_timeseries_analysis.sql 
+├── Retail Analysis Report.pdf
+├── Dashboard/ (coming soon)
+
 ```
 
 ## Features Added
