@@ -40,3 +40,10 @@ Compared with the original dataset, this version includes:
 * Revenue calculation
 * Date-based features (year, quarter, month, week, day and hour)
 * Product category and subcategory classification
+
+## Executive Summary
+
+Retail performance is largely driven by a small group of highly valuable customers. Pareto analysis shows that the top 20% of customers generated over 77% of total revenue while maintaining an exceptional high repeat purchase rate of 99.32% demonstrating strong customer loyalty. 
+These high value customers mostly purchased home-related products, particularly with the Kitchen and Dining, Home and Outdoor and Textiles product categories. Purchase activity peaked during the Q4 and mostly occur during standard business hours. Targeted marketing, personalised promotions and loyalty incentives focused on this customer segment could have a substantial impact on future revenue growth. 
+Product and market analysis show that the business heavily relies on the United Kingdom as its primary revenue source while maintaining a smaller but profitable presence across several European markets. The results also show a clear seasonal demand pattern with sales peaking consistently during October and November, providing evidence for stock planning and promotional scheduling. 
+
