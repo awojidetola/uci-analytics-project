@@ -1,4 +1,4 @@
-# Online Retail II (Analysis Ready)
+# Retail Store Analysis Project 
 
 ## Overview
 
