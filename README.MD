@@ -55,4 +55,13 @@ Following data cleaning, transformation, and analysis in **Google BigQuery**, th
 
 🔗 **Live Dashboard:** [Retail Sales Executive Dashboard](https://datastudio.google.com/reporting/9f2fbcaa-506b-4dd5-9d0f-b978f7a77a8f)
 
-![Sales Executive Dashboard](https://github.com/awojidetola/uci-analytics-project/blob/main/Sales%20Executive%20Dashboard.jpg?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/awojidetola/uci-analytics-project/main/Sales%20Executive%20Dashboard.jpg" width="900">
+</p>
+
+## Tools Used
+
+- Google BigQuery (SQL)
+- Google Looker Studio
+- Kaggle
+- Git & GitHub
