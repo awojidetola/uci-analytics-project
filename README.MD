@@ -1,4 +1,4 @@
-# Retail Store Analysis Project 
+# End to End Retail Sales Analytics with BigQuery and Looker Studio
 
 ## Overview
 
