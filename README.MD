@@ -24,7 +24,7 @@ Link to clean dataset on Kaggle: [Here](https://www.kaggle.com/datasets/awojidem
 │   └── 06_product_analysis.sql 
 │   └── 07_geography_and_timeseries_analysis.sql 
 ├── Retail Analysis Report.pdf
-├── Dashboard/ (coming soon)
+├── Sales Executive Dashboard.jpg
 
 ```
 
@@ -48,4 +48,10 @@ Retail performance is largely driven by a small group of highly valuable custome
 These high value customers mostly purchased home-related products, particularly with the Kitchen and Dining, Home and Outdoor and Textiles product categories. Purchase activity peaked during the Q4 and mostly occur during standard business hours. Targeted marketing, personalised promotions and loyalty incentives focused on this customer segment could have a substantial impact on future revenue growth. 
 
 Product and market analysis show that the business heavily relies on the United Kingdom as its primary revenue source while maintaining a smaller but profitable presence across several European markets. The results also show a clear seasonal demand pattern with sales peaking consistently during October and November, providing evidence for stock planning and promotional scheduling. 
+
+## Dashboard
+
+Following data cleaning, transformation, and analysis in **Google BigQuery**, the final dataset was connected to **Google Looker Studio** to develop an interactive executive dashboard. The dashboard enables users to monitor key retail performance metrics, explore customer and product insights, and analyse sales trends through dynamic filters and visualisations.
+
+🔗 **Live Dashboard:** [Retail Sales Executive Dashboard](https://datastudio.google.com/reporting/9f2fbcaa-506b-4dd5-9d0f-b978f7a77a8f)
 
